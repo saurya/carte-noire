@@ -15,7 +15,7 @@ tags:
 
 Welcome to Carte Noire.
 
-Carte Noire began as a new theme for [my personal blog][1], but has now taken
+Carte Noire began as a *new theme* for [my personal blog][1], but has now taken
 on a life of its own as a free theme for Jekyll.
 
 The theme has been designed with simplicity and readability in mind. It makes
